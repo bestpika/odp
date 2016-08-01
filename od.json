@@ -1,0 +1,14 @@
+{
+    "cors": {
+        "http://localhost": {}
+    },
+    "opendata": {
+        "atis_ntpc_gov_tw": {
+            "ATMSDeviceVisible": {
+                "name": "新北市即時交通網資訊",
+                "data": "http://atis.ntpc.gov.tw/api/ATMSDeviceVisible",
+                "mime": "application/json"
+            }
+        }
+    }
+}
